@@ -44,7 +44,7 @@ Die extreme Ungleichheit ist auch in Deutschland ein komplexes Problem, das viel
 
 –
 
-• | Einer der grundlegenden Ursachen dabei ist: Die zunehmende Bedeutung des Finanzsektors, dieser hat zu einer Konzentration von Reichtum in den Händen weniger Finanzakteure geführt.
+•  | Einer der grundlegenden Ursachen dabei ist: Die zunehmende Bedeutung des Finanzsektors, dieser hat zu einer Konzentration von Reichtum in den Händen weniger Finanzakteure geführt.
 
 –
 
@@ -56,9 +56,9 @@ Ein nicht unerheblicher Teil der Bevölkerung besitzt kein Vermögen oder ist so
 
 Die Reichen wollen dabei ihre Macht behalten, und die ärmeren dafür verantwortlich machen, dass sie arm sind. Es wird das Narrativ produziert, dass wer arm ist, diese Lage selbst verschuldet hat, indem er sich bewusst dafür entschieden hat. Eine Verantwortung – wie sie auch im Grundgesetz in Artikel 14 festgelegt ist, wird dabei weder gesehen  noch ist diese (von den Reichen aus) erwünscht: 
 
-• |  (1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt.    
+•  |  (1) Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt.    
 
-• | (2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.
+•  | (2) Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen.
 
 [https://www.bundesregierung.de/breg-de/themen/75-jahre-grundgesetz/artikel-14-gg-2267842](https://www.bundesregierung.de/breg-de/themen/75-jahre-grundgesetz/artikel-14-gg-2267842)
 
