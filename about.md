@@ -6,9 +6,16 @@ permalink: /about/
 
 Ich bin fasziniert von der menschlichen Existenz und suche nach Antworten in Kultur, Kunst, Geisteswissenschaften, sozialen Interaktionen und den unendlichen Möglichkeiten der digitalen Welt. 
 
-### Mehr Information
+### Werte, Haltung und Position des Autors
 
-Wenn mir mehr einfällt, schreibe ich hier darüber.
+Position, Haltung und Werte sind Grundlage für, und prägen unser Denken, Handeln und unsere Beziehungen zu anderen Menschen. Sie bestimmen, wie wir die Welt wahrnehmen, welche Entscheidungen wir treffen und welche Ziele wir verfolgen.
+
+[Lesen](https://s2030c.github.io/gesellschaftskritik/doc/werte-haltung-position-des-autors/)
+
+
+
+
+
 
 ### Kontaktiere mich
 
