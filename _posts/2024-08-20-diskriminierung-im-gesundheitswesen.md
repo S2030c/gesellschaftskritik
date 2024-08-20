@@ -31,4 +31,4 @@ Wer Diskriminierung im Gesundheitswesen erlebt, ist in Deutschland oft auf sich 
 *„Alle Patientinnen und Patienten haben das Bedürfnis und das Recht, optimal behandelt zu werden. Sie benötigen alle die gleiche Unterstützung, Zuwendung und gute Therapieangebote. Diskriminierung wird gerade in Situationen von Krankheit und Schwäche als besonders verletzend erlebt. Das können wir nicht hinnehmen. Hier müssen auch im Konfliktfall vor Ort kompetente Beraterinnen und Berater helfen“, sagte Bundesgesundheitsminister Prof. Dr. Karl Lauterbach.* 
 
 Lesen:      
-[https://www.antidiskriminierungsstelle.de/SharedDocs/aktuelles/DE/2024/20240422\_diskriminierung\_gesundheitswesen.html](https://www.antidiskriminierungsstelle.de/SharedDocs/aktuelles/DE/2024/20240422\_diskriminierung\_gesundheitswesen.html)
+[antidiskriminierungsstelle.de](https://www.antidiskriminierungsstelle.de/SharedDocs/aktuelles/DE/2024/20240422\_diskriminierung\_gesundheitswesen.html)
