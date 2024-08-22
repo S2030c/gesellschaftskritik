@@ -12,6 +12,9 @@ Gesellschaft bezeichnet in der Soziologie eine durch unterschiedliche Merkmale z
 
 Gesellschaft und das Verhältnis «Gesellschaft, Politik, Recht, Staat, Behörde, Verwaltung und Bürokratie» ist in Deutschland grundlegend, aber auch grundlegend eigenartig. Dieses Verhältnis ist in Deutschland ein komplexes Gefüge, das durch eine lange historische Entwicklung und spezifische gesellschaftliche Werte geprägt ist. [Lesen](./grundlegende-aspekte-in-deutschland/) 2024-08-18
 
+----
+
+**Der Humanismus** ist eine Geisteshaltung, die den Menschen in den Mittelpunkt stellt und seine Würde sowie seine Fähigkeit zur Vernunft betont. Er ist eine positive und zukunftsweisende Geisteshaltung, die den Menschen in den Mittelpunkt stellt und eine bessere Welt anstrebt. [Lesen](./der-humanismus-als-weltbild/) 2024-08-22
 
 ----
 
