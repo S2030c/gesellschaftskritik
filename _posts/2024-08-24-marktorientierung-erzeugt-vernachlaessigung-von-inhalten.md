@@ -1,7 +1,5 @@
 ### In unserer heutigen, von Konsum getriebenen Gesellschaft scheint alles einem einzigen Ziel unterworfen: dem wirtschaftlichen Erfolg. Eine überbordende Marktlogik, die Profitmaximierung über alle anderen Werte stellt, prägt unser Denken und Handeln. Doch diese einseitige Orientierung birgt Gefahren. Sie führt zu einer Vernachlässigung tieferliegender Inhalte und einer Überbetonung von äußeren Formen und Strukturen. Die Folgen dieser Entwicklung sind vielfältig und reichen von der Verarmung kultureller Vielfalt bis hin zur Destabilisierung sozialer Systeme.
 
-### 
-
 ## Warum führt eine übermäßige Marktorientierung zu einer Vernachlässigung von Inhalten?
 
 **Kurzfristigkeit:** Der Druck, kurzfristige Gewinne zu maximieren, führt dazu, dass langfristige Investitionen in die Qualität von Produkten oder Dienstleistungen vernachlässigt werden.
