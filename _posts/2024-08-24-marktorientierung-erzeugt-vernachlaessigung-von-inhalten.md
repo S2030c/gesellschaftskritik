@@ -44,7 +44,9 @@
 
 ## 
 
-## Denkanstoss
+## Denkanstoss und Fazit
 
-**Ihre These bietet einen wichtigen Denkanstoß für eine kritische Betrachtung der aktuellen Wirtschaftsordnung.** Sie zeigt, dass eine rein marktorientierte Perspektive nicht ausreicht, um die komplexen Herausforderungen unserer Zeit zu bewältigen. Es bedarf einer ausgewogenen Balance zwischen wirtschaftlichen, sozialen und ökologischen Interessen.
+Die obigen Überlegungen und kritische Betrachtung der aktuellen Wirtschaftsordnung zeigt, dass eine rein marktorientierte Perspektive nicht ausreicht, um die komplexen Herausforderungen unserer Zeit zu bewältigen. 
+
+Es bedarf einer ausgewogenen Balance zwischen wirtschaftlichen, sozialen und ökologischen Interessen.
 
