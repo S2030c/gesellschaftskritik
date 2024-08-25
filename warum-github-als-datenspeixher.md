@@ -1,4 +1,4 @@
-Warum GitHub als Datenspeicher für Textbasierten Blog?
+Warum GitHub als Datenspeicher für Textbasierten Blog? (Technik Kenntnisse vorausgesetzt)
 
 - Texte sind in dieser Form ähnlich wie Code
 - Einfaches Handling 
@@ -10,6 +10,28 @@ Warum GitHub als Datenspeicher für Textbasierten Blog?
 - Daten sind einfach in andere Darstellungsformen integrierbar 
 - jeder der möchte kann sich die Daten und Informationen Clonen, weiterverarbeiten, sampeln,und irgendwie nutzen wie es passend ist. 
 
-## vor allem auch:
+einige Pubnkte zusammengefasst: 
 
-Github wird es (sehr wahrscheinlich) in 100 Jahren noch geben. Man wird sich um die Daten hier auch in Zukunft kümmern. Auch ohne dass jemand sich separat kümmert werden Daten auf GitHub erhalten bleiben als Kulturgut. allein dies ist sehr hilfreich. 
+- Versionierung
+- Zusammenarbeit (potenzial Zukunft)
+- Community und Open Source
+- Automatisierung
+- Langlebigkeit
+- Verteilung
+- Gut für Technikaffine Nutzer
+
+
+
+## Langlebigkeit - kulturelles Erbe
+
+Github wird es (sehr wahrscheinlich) in 50-100 Jahren noch geben. Man wird sich um die Daten hier auch in Zukunft kümmern. Github DAten sind Teil eines kulturellen Erbes und eines Datenpools, den die Menschheit gerne erhalten wird. 
+
+
+
+## Alternativen zu Github 
+
+
+- WordPress: Die wohl bekannteste und am weitesten verbreitete Blog-Plattform. Bietet eine einfache Bedienung und eine Vielzahl von Themes und Plugins.
+- Jekyll: Ein statischer Site Generator, der auf Ruby basiert. Ähnlich wie GitHub, aber mit einer einfacheren Einrichtung.
+- Hugo: Ein statischer Site Generator, der für seine Geschwindigkeit bekannt ist.
+- Netlify: Eine Plattform, die es ermöglicht, statische Websites, einschließlich derer, die mit GitHub erstellt wurden, einfach zu deployen.
