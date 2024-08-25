@@ -1,3 +1,8 @@
+---
+layout: page
+title: Werte, Haltung, Positionen des Autors
+permalink: /werte-haltung-position-des-autors/
+---
 **Position, Haltung** und **Werte** sind Grundlage für, und prägen unser Denken, Handeln und unsere Beziehungen zu anderen Menschen. Sie bestimmen, wie wir die Welt wahrnehmen, welche Entscheidungen wir treffen und welche Ziele wir verfolgen.
 
 Hier möchte ich eine grundlegende Richtung anbieten, wie sich dies bei mir verhält, und auf welche Art ich bezüglich Positionen, Haltungen und Werte eingestellt bin. 
