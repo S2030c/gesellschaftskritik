@@ -8,7 +8,7 @@ Warum GitHub als Datenspeicher für Textbasierten Blog? (Technik Kenntnisse vora
 - automatische Backups und Datenhandling 
 - Mit GitHub Pages - sehr simple und einfach konfigurierbare Erstellung einer Web Präsenz
 - Daten sind einfach in andere Darstellungsformen integrierbar 
-- jeder der möchte kann sich die Daten und Informationen Clonen, weiterverarbeiten, sampeln,und irgendwie nutzen wie es passend ist. 
+- jeder der möchte kann sich die Daten und Informationen Clonen, weiterverarbeiten, sampeln,und irgendwie nutzen wie es passend ist
 
 einige Pubnkte zusammengefasst: 
 
