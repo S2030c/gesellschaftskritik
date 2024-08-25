@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Was ist Gesellschaft
-permalink: /gesellschaft-was-ist-das/
+permalink: /doc/gesellschaft-was-ist-das/
 ---
 Was ist Gesellschaft / und was Kritisiert man da, wenn man Gesellschaftskritik anbringt?
 
