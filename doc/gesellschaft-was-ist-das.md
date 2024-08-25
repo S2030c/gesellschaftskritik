@@ -1,5 +1,8 @@
-# Was ist Gesellschaft
-
+---
+layout: post
+title: Was ist Gesellschaft
+permalink: /gesellschaft-was-ist-das/
+---
 Was ist Gesellschaft / und was Kritisiert man da, wenn man Gesellschaftskritik anbringt?
 
 Gesellschaft bezeichnet in der [Soziologie](https://de.wikipedia.org/wiki/Soziologie) eine durch unterschiedliche [Merkmale](https://de.wikipedia.org/wiki/Merkmal) zusammengefasste und abgegrenzte Anzahl von Personen, die als sozial Handelnde ([Akteure](https://de.wikipedia.org/wiki/Akteur)) miteinander verknüpft leben und direkt oder indirekt [sozial interagieren](https://de.wikipedia.org/wiki/Soziale\_Interaktion). 
