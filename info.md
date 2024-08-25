@@ -3,7 +3,8 @@ layout: page
 title: Info
 permalink: /info/
 ---
-# Info
+
+**Funktionale Links**
 
 Übersicht Sitemap: [sitemap.xml](/sitemap.xml)
 
