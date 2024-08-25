@@ -3,4 +3,4 @@ Die Risse in unserer Gesellschaft sind sichtbar geworden. Ungerechtigkeiten, Dis
 Start des Projektes: 2024-08-17
 
 
-<./warum-github-als-datenspeicher.md>
+[Warum Github als Datenspeicher](./warum-github-als-datenspeicher.md)
