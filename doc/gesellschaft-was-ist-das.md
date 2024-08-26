@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Was ist Gesellschaft
 permalink: /doc/gesellschaft-was-ist-das/
 ---
