@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Der Humanismus als Weltbild
 permalink: /doc/der-humanismus-als-weltbild/
 ---
