@@ -1,5 +1,3 @@
-## 
-
 In unserer heutigen Gesellschaft scheint es oft so, als ob das Aufdecken und Diskutieren vermeintlicher Probleme zum neuen Volkssport geworden ist. Dabei wird häufig übersehen, dass diese vermeintlichen Probleme oft konstruiert oder maßlos übertrieben werden, während gleichzeitig echte, gravierende Herausforderungen ignoriert oder verharmlost werden. Diese gefährliche Doppelmoral durchzieht viele Bereiche unseres politischen und gesellschaftlichen Lebens.
 
 Die Ursachen für dieses Phänomen sind vielfältig. Zum einen spielt die mediale Berichterstattung eine entscheidende Rolle. Die Jagd nach Aufmerksamkeit und Klickzahlen führt dazu, dass vermeintliche Skandale aufgebauscht und marginale Themen überproportional gewichtet werden. Zum anderen tragen auch soziale Medien dazu bei, dass sich bestimmte Narrative schnell verbreiten und verfestigen können, ohne dass sie einer kritischen Prüfung unterzogen werden.
