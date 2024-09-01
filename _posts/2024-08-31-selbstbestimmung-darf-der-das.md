@@ -1,4 +1,4 @@
-In Zeiten, in denen gesellschaftliche Normen und traditionelle Rollenbilder zunehmend hinterfragt werden, stellt sich die Frage nach individueller Autonomie immer dringlicher. Darf ich das? Diese Frage begleitet uns durch viele Lebensbereiche und wirft einen kritischen Blick auf die bestehenden Strukturen, die unser Handeln oft unbewusst einschränken.
+In Zeiten, in denen gesellschaftliche Normen und traditionelle Rollenbilder zunehmend hinterfragt werden, stellt sich die Frage nach individueller Autonomie immer dringlicher. Darf ich das? Diese Frage begleitet uns durch viele Lebensbereiche und wirft einen kritischen Blick auf die bestehenden Strukturen, die unser Handeln oft unbewusst – aber auch unnötig einschränken.
 
 Die Emanzipation, einst ein Kampf für Gleichberechtigung, hat sich zu einem vielschichtigen Konzept entwickelt. Sie umfasst nicht nur die Gleichstellung der Geschlechter, sondern auch die Befreiung von allen Formen der Unterdrückung. Selbstfürsorgliche Ermächtigung ist dabei ein wichtiger Bestandteil. Sie bedeutet, auf die eigenen Bedürfnisse zu hören, Grenzen zu setzen und sich nicht von äußeren Erwartungen leiten zu lassen.
 
