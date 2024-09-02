@@ -1,5 +1,3 @@
-## 
-
 Die Gleichgültigkeit, einst ein Begriff, der eher mit älteren Generationen in Verbindung gebracht wurde, scheint sich in jüngster Zeit in allen Gesellschaftsschichten ausgebreitet zu haben. Gleichgültigkeit war früher eher ein Phänomen, das in großen Metropolen oder anonymen Online-Communities beobachtet wurde. Es scheint, dass sich diese Gefühlskälte nun auch in kleineren Gemeinschaften ausbreitet .
 
 Was einst als Ausnahmeerscheinung galt, wird zunehmend zum normalen Umgang. Die Bereitschaft, sich für andere einzusetzen, scheint nachzulassen. Die Anteilnahme an den Sorgen und Nöten unserer Mitmenschen wird seltener. An die Stelle von Empathie und Mitgefühl tritt oft eine gewisse Indifferenz, oder sogar expliziter Gefühlskälte mit Hass und zunehmender Hetze. 
