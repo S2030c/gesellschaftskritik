@@ -50,7 +50,9 @@
           <hr>
           {% include svg-icons.html %}
           <div> 
-            {{ page.tags }} 
+            {%- for tag in page.tags -%}
+              <a href="/tag/{{ page.tags }}">{{ page.tags }}</a> 
+            {%- endfor -%}
           </div>
         </footer>
       </div>
