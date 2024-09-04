@@ -24,7 +24,7 @@ Die diskriminierende Durchsetzung der Deutungshoheit ist ein komplexes Problem, 
 
 Es erfordert oft einen langfristigen und umfassenden Ansatz, um sie zu überwinden.
 
-Die diskriminierende Durchsetzung der Deutungshoheit wird von unterschiedlichen Behörden, Institutionen oder Gruppen oft zumindest zum Teil unbewusst angewendet, „weil man es angeblich schon immer so gemacht hat“.  
+Die diskriminierende Durchsetzung der Deutungshoheit wird von unterschiedlichen Behörden, Institutionen oder Gruppen oft zumindest zum Teil bewusst und in vollem Wissen darüber was man da tut, und auch dem Wissen dass es unethisch, Menschenverachtend, illegitim, oder sogar illegal ist angewendet, „weil man es angeblich schon immer so gemacht hat“.  
 
 Es ist an der Zeit eingefahrene Verhaltensweisen zu hinterfragen und zu verändern. 
 
