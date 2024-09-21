@@ -1,5 +1,5 @@
 ---
-title: Investition in die Zukunft: Die Notwendigkeit angemessener Angebote für alle
+title: Investition in die Zukunft - Die Notwendigkeit angemessener Angebote für alle
 ---
 Die Gesellschaft steht vor der Herausforderung, eine Zukunft zu gestalten, die den **Bedürfnissen aller gerecht wird**. Dies erfordert ein **Umdenken und eine Neuausrichtung unserer Werte und Prioritäten**. Um eine nachhaltige und gerechte Gesellschaft zu gewährleisten, müssen wir uns bewusst machen, dass **wir alle Verantwortung tragen**, angemessene Angebote für eine gute Zukunft bereitzustellen.
 
