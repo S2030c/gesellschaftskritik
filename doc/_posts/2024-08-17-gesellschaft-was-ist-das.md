@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Was ist Gesellschaft
-permalink: /doc/gesellschaft-was-ist-das/
 ---
 Was ist Gesellschaft / und was Kritisiert man da, wenn man Gesellschaftskritik anbringt?
 
@@ -31,7 +29,7 @@ Es ergeben sich verschiedene Schulen und Denkarten dessen was als Gesellschaft v
 
 Auch hier hilft Wikipedia: 
 
-\==
+==
 
 Die Bezeichnung „Gesellschaft“ ist als zentraler Grundbegriff der Soziologie umstritten. 2011 schrieb [Thomas Schwinn](https://de.wikipedia.org/wiki/Thomas\_Schwinn) in einer Übersicht von „starken und schwachen Gesellschaftsbegriffen“. Diese bezeichnete er als „Verfallsstufen eines traditionsreichen Konzepts“.[\[4\]](https://de.wikipedia.org/wiki/Gesellschaft\_(Soziologie)\#cite\_note-4) Er beschreibt die Theoriegeschichte des Begriffs und unterscheidet u. a. [systemtheoretische](https://de.wikipedia.org/wiki/Systemtheorie) Ansätze (u. a. [Talcott Parsons](https://de.wikipedia.org/wiki/Talcott\_Parsons), [Niklas Luhmann](https://de.wikipedia.org/wiki/Niklas\_Luhmann)), [handlungstheoretische](https://de.wikipedia.org/wiki/Handlungstheorie\_(Soziologie)) Fundierungsversuche ([Anthony Giddens](https://de.wikipedia.org/wiki/Anthony\_Giddens), [Hartmut Esser](https://de.wikipedia.org/wiki/Hartmut\_Esser)) oder Kombinationen aus System- und Handlungstheorie ([Jürgen Habermas](https://de.wikipedia.org/wiki/J%C3%BCrgen\_Habermas), [Uwe Schimank](https://de.wikipedia.org/wiki/Uwe\_Schimank)).
 
