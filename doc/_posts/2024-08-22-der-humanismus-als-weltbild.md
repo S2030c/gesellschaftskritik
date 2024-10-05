@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Der Humanismus als Weltbild
-permalink: /doc/der-humanismus-als-weltbild/
 ---
 Der Humanismus ist eine positive und zukunftsweisende Geisteshaltung, die den Menschen in den Mittelpunkt stellt, eine bessere Welt anstrebt und die Würde des Menschen sowie die Fähigkeit zur Vernunft betont.
 
@@ -113,6 +111,4 @@ Der Humanismus ist eine **zeitlose Geisteshaltung**, die uns hilft, ein **erfül
 
 **Er ist die Grundlage für eine Gesellschaft, die auf Toleranz, Respekt und Mitgefühl basiert.**
 
----
-
-Stand: 2024-08-22
+2024-08-22
