@@ -1,7 +1,5 @@
 ---
-layout: page
 title: Grundlegende Aspekte in Deutschland
-permalink: /doc/grundlegende-aspekte-in-deutschland/
 ---
 Gesellschaft und das Verhältnis «Gesellschaft, Politik, Recht, Staat, Behörde, Verwaltung und Bürokratie» ist in Deutschland grundlegend, aber auch grundlegend eigenartig. Dieses Verhältnis ist in Deutschland ein komplexes Gefüge, das durch eine lange historische Entwicklung und spezifische gesellschaftliche Werte geprägt ist.
 
